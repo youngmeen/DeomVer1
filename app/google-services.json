@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095133444264",
+    "firebase_url": "https://deomver1.firebaseio.com",
+    "project_id": "deomver1",
+    "storage_bucket": "deomver1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095133444264:android:bd912d2a4a6ea32c",
+        "android_client_info": {
+          "package_name": "com.example.kim.deomver1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095133444264-168t8obgv0cmogknnat2uhlb5fmi72mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kim.deomver1",
+            "certificate_hash": "b903db9e3cf980585c2f695a560f15ab6c3274bc"
+          }
+        },
+        {
+          "client_id": "1095133444264-pahu74ttjnc6lvcrvs95u0ve8uioqij8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65VZbDm72gJOaiNmfLqesYTuL_4kccpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095133444264-pahu74ttjnc6lvcrvs95u0ve8uioqij8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
